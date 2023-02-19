@@ -1,4 +1,4 @@
-name = "remix-cloudflare-workers"
+name = "polymath-remixed"
 
 workers_dev = true
 main = "./build/index.js"
